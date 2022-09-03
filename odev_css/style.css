@@ -1,0 +1,37 @@
+        body{
+            text-align: center;
+        }
+        h1 {color: blueviolet; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+        }
+        h2{
+            color: forestgreen;
+        }
+        p {
+            font-size: larger;
+            font-family: fantasy;
+        }
+        img{
+            width: 450px;
+        }
+        h3{
+            color: palevioletred;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: medium;
+            font-style: italic;
+        }
+        .address{
+            font-size: x-large;
+        }
+        #telefon{
+            font-size: 25px;
+        }
+        .urunler{
+            font-family: cursive;
+        }
+        #store{
+            height: 400px;
+        }
+        #storename{
+            font-size: xx-large;
+        }
